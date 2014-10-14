@@ -46,9 +46,9 @@ Day 3
 Day 4
 -----
 
-- 09:30 - 10:10    Controlling complexity (Jonas)
-- 10:20 - 11:00    Functional programming (Jonas)
-- 11:10 - 11:50    Debugging toolbox (Michael)
+- 09:30 - 10:10    Debugging toolbox (Michael)
+- 10:20 - 11:00    Controlling complexity (Jonas)
+- 11:10 - 11:50    Functional programming (Jonas)
 
 - 13:00 - 16:00    Exercise session 3
 - 16:00 - 16:40    Modular programming and mixed-language development (Jonas)
