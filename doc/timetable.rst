@@ -7,7 +7,7 @@ Timetable
 Day 1
 -----
 
-- 11:00 - 11:20    Course overview (Radovan)
+- 11:00 - 11:20    Course overview and practical information (Radovan)
 - 11:20 - 12:00    Introduction to Git (Radovan)
 
 - 13:30 - 14:10    Branching and merging in Git (Radovan)
@@ -36,7 +36,7 @@ Day 3
 
 - 09:30 - 10:10    Expressing dependencies with make (Michael)
 - 10:20 - 11:00    Building portable software with CMake (Rossen)
-- 11:10 - 11:50    CMake Kung Fu (Rossen/Radovan)
+- 11:10 - 11:50    CMake Kung Fu (Radovan)
 
 - 13:00 - 16:00    Exercise session 2
 - 16:00 - 16:40    Profiling and code optimization toolbox (Rossen)
