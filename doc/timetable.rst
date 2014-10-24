@@ -23,7 +23,7 @@ Day 2
 -----
 
 - 09:30 - 10:10    Mercurial (Michael)
-- 10:20 - 11:00    Working with IPython (Michael)
+- 10:20 - 11:00    Code documentation (Radovan)
 - 11:10 - 11:50    Testing: Unit tests, regression tests, test-driven development (Radovan)
 
 - 13:00 - 16:00    Exercise session 1
@@ -59,7 +59,7 @@ Day 5
 -----
 
 - 09:30 - 09:50    Sharing software, packaging software and release mechanisms (Radovan)
-- 09:50 - 10:20    Code documentation (Radovan)
+- 09:50 - 10:20    Working with IPython (Michael)
 
 - 10:30 - 10:50    Real life example: Code development in DIRAC and Dalton (Radovan)
 - 10:50 - 11:10    Real life example: Code review and continuous integration in GROMACS (Rossen)
