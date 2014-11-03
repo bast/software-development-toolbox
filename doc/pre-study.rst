@@ -8,8 +8,8 @@ language in case you have never used one (we recommend Python) and basics in at
 least one compiled language in case you have never used one (we recommend C or
 C++ or Fortran).
 
-The reason for this is that we will teach programming languages but we will
-teach tools and work-lows for an efficient collaborative programming. We
+The reason for this is that we will not teach programming languages but we will
+teach tools and work-flows for an efficient collaborative programming. We
 believe that developers who use compiled languages can benefit from interpreted
 languages and vice versa.
 
