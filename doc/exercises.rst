@@ -7,6 +7,7 @@ Exercises
 Get comfortable with Git
 ------------------------
 
+- Init, bare, clone, pull, push, fetch
 - Fork and pull-request
 - Git bisect
 - Soft reset
@@ -37,10 +38,3 @@ Modern code documentation
 - Create Sphinx-based documentation
 - Deploy to ReadTheDocs
 - Virtualenv
-
-
-Profiling and code optimization
--------------------------------
-
-- Finding bottlenecks
-- Overcoming bottlenecks
