@@ -12,4 +12,6 @@ involve moving to CMake (we highly recommend such a step).
 
 The project work should conclude with a report.
 
-More information about the project week will be added here.
+You should choose and submit a short project abstract (one or two paragraphs)
+in pdf format before the end of day 4 so that we have the possibility to
+discuss the projects.
