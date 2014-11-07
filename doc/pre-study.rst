@@ -25,10 +25,12 @@ Here is some recommended material for the pre-study week:
 - http://software-carpentry.org/v5/novice/git/index.html
 - http://software-carpentry.org/v5/novice/python/index.html
 - http://git-scm.com/book/en/v2
+- http://pcottle.github.io/learnGitBranching/
 - https://docs.python.org/2/tutorial/
 - http://docs.python-guide.org/
 - http://exercism.io/
 - http://www.csee.umbc.edu/~squire/fortranclass/summary.shtml
 - http://www.fortran90.org/src/best-practices.html
+- http://jacobian.org/writing/great-documentation/
 
 There are many good books out there.
