@@ -8,5 +8,17 @@ Scientific software development toolbox course
 
    doc/pre-study.rst
    doc/timetable.rst
-   doc/exercises.rst
    doc/project.rst
+
+
+Exercises
+---------
+
+.. toctree::
+   :maxdepth: 2
+
+   doc/exercises/general.rst
+   doc/exercises/git.rst
+   doc/exercises/tdd.rst
+   doc/exercises/cmake.rst
+   doc/exercises/doc.rst
