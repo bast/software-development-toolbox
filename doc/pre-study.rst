@@ -26,6 +26,7 @@ Here is some recommended material for the pre-study week:
 - http://software-carpentry.org/v5/novice/python/index.html
 - http://git-scm.com/book/en/v2
 - http://pcottle.github.io/learnGitBranching/
+- https://guides.github.com/introduction/flow/index.html
 - https://docs.python.org/2/tutorial/
 - http://docs.python-guide.org/
 - http://exercism.io/
