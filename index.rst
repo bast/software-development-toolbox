@@ -15,7 +15,7 @@ Exercises
 ---------
 
 .. toctree::
-   :maxdepth: 2
+   :maxdepth: 1
 
    doc/exercises/general.rst
    doc/exercises/git.rst
