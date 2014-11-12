@@ -13,16 +13,16 @@ instead. The point here is to get into contact with testing, continuous
 integration, and test coverage.
 
 Proceed as follows:
- - Create a GitHub project.
- - Create accounts at https://travis-ci.org/ and https://coveralls.io and enable there your new GitHub project.
- - Create a .travis.yml file.
+ - Create a GitHub project for this exercise.
+ - Create accounts at https://travis-ci.org and https://coveralls.io and enable there your new GitHub project.
+ - Create a .travis.yml file and commit it.
  - For each problem start with an empty function/routine that does not work.
  - Create a test for this function/routine using pytest or nose or Google Test or pFUnit depending on your language.
  - Commit and push the test.
  - Fix the function/routine until the test passes.
  - Commit and push the working function/routine.
- - Check and discuss the test history.
- - Check and discuss the test coverage.
+ - Check and discuss the test history on https://travis-ci.org.
+ - Check and discuss the test coverage on https://coveralls.io.
 
 
 Ranges with steps
@@ -30,8 +30,8 @@ Ranges with steps
 
 Inspired by http://learnyouahaskell.com.
 
-Write a function/routine that receives a string and returns a list of integers.
-Examples::
+Write a function/routine that receives a string and returns a list of integers, for
+example::
 
   "[2,4..20]" -> [2, 4, 6, 8, 10, 12, 14, 16, 18, 20]
   "[3,6..20]" -> [3, 6, 9, 12, 15, 18]
@@ -100,7 +100,7 @@ Finding the right triangle
 Inspired by http://learnyouahaskell.com.
 
 Find a triangle that fits the following conditions:
-- One angle is 90 degrees
-- The lengths of the three sides are all integers
-- The length of each side is less than or equal to 10
-- The sum of the side lengths is equal to 24
+ - One angle is 90 degrees
+ - The lengths of the three sides are all integers
+ - The length of each side is less than or equal to 10
+ - The sum of the side lengths is equal to 24
