@@ -1,7 +1,7 @@
 
 
-General
-=======
+Overview
+========
 
 We have 3 exercise sessions and 4 exercise groups.  Everybody should complete
 at least 3 exercise groups. You can of course try to complete all of them. We

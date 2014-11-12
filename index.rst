@@ -17,7 +17,7 @@ Exercises
 .. toctree::
    :maxdepth: 1
 
-   doc/exercises/general.rst
+   doc/exercises/overview.rst
    doc/exercises/git.rst
    doc/exercises/tdd.rst
    doc/exercises/cmake.rst

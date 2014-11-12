@@ -9,16 +9,17 @@ FIXME:
 
 Below you find a collection of problems. Start with the ones you like in your
 favourite language. You do not have to finish all and you can test own problems
-instead. The point here is to get into contact with testing, continuous
-integration, and test coverage.
+instead. Each function should be separately tested.  The point here is to get
+into contact with testing, continuous integration, and test coverage.
 
 Proceed as follows:
  - Create a GitHub project for this exercise.
  - Create accounts at https://travis-ci.org and https://coveralls.io and enable there your new GitHub project.
- - Create a .travis.yml file and commit it.
  - For each problem start with an empty function/routine that does not work.
  - Create a test for this function/routine using pytest or nose or Google Test or pFUnit depending on your language.
- - Commit and push the test.
+ - Commit the function and its test.
+ - Create a .travis.yml file and commit it.
+ - Push to GitHub.
  - Fix the function/routine until the test passes.
  - Commit and push the working function/routine.
  - Check and discuss the test history on https://travis-ci.org.
