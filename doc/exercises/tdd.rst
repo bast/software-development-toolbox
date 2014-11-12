@@ -42,13 +42,13 @@ Deaf Grandma
 
 Heavily inspired by https://pine.fm/LearnToProgram.
 
-Write a Deaf Grandma program. Whatever you say to grandma (input), she should
-respond with "HUH?! SPEAK UP, SONNY!", unless you shout it (type in all
-capitals). If you shout, she can hear you (or at least she thinks so) and yells
-back, "NO, NOT SINCE 1938!". When you shout "BYE", she could pretend not to
-hear you. You have to shout "BYE" three times in a row so that she says "BYE".
-Make sure to test your program: if you shout "BYE" three times, but not in a
-row, you should still be talking to grandma.
+Write a deaf grandma program. Whatever you say to grandma (input), she should
+respond with "HUH?! SPEAK UP, SONNY!" (output), unless you shout it (input in
+all capitals). If you shout, she can hear you (or at least she thinks so) and
+yells back, "NO, NOT SINCE 1938!". When you shout "BYE", she could pretend not
+to hear you. You have to shout "BYE" three times in a row so that she says
+"BYE".  Make sure to test your program: if you shout "BYE" three times, but not
+in a row, you should still be talking to grandma.
 
 
 Reverse a character string
