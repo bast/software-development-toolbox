@@ -106,3 +106,9 @@ Find a triangle that fits the following conditions:
  - The lengths of the three sides are all integers
  - The length of each side is less than or equal to 10
  - The sum of the side lengths is equal to 24
+
+
+Advanced and fun exercise: Snake game using Python curses
+---------------------------------------------------------
+
+It is fun, it is visual and it is quite easy.
