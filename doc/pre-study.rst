@@ -28,10 +28,9 @@ Here is some recommended material for the pre-study week:
 - http://pcottle.github.io/learnGitBranching/
 - https://guides.github.com/introduction/flow/index.html
 - https://docs.python.org/2/tutorial/
-- http://docs.python-guide.org/
-- http://exercism.io/
+- http://docs.python-guide.org
+- http://hplgit.github.io/scipro-primer/slides/index.html
+- http://exercism.io
 - http://www.csee.umbc.edu/~squire/fortranclass/summary.shtml
 - http://www.fortran90.org/src/best-practices.html
 - http://jacobian.org/writing/great-documentation/
-
-There are many good books out there.
