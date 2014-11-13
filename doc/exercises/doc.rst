@@ -4,7 +4,9 @@ Modern code documentation
 =========================
 
 In this exercise we will implement a Sphinx-based documentation, host it on
-GitHub and deploy it to https://readthedocs.org.
+GitHub and deploy it to https://readthedocs.org. This is exactly how this
+page that you read right now arrives to your browser (the sources are here:
+https://github.com/rbast/software-development-toolbox).
 
 - Set up a virtual environment according to http://docs.python-guide.org/en/latest/dev/virtualenvs/.
 - Install Sphinx to the virtual environment.
