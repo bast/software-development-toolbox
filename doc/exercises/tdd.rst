@@ -5,7 +5,6 @@ Test-driven debugging and development
 
 FIXME:
  - Provide example .travis.yml files.
- - Create CDash sandbox.
 
 Below you find a collection of problems. Start with the ones you like in your
 favourite language. You do not have to finish all and you can test own problems
@@ -15,15 +14,17 @@ into contact with testing, continuous integration, and test coverage.
 Proceed as follows:
  - Create a GitHub project for this exercise.
  - Create accounts at https://travis-ci.org and https://coveralls.io and enable there your new GitHub project.
- - For each problem start with an empty function/routine that does not work.
+ - For each problem start with an empty/mock function/routine that does not work.
  - Create a test for this function/routine using pytest or nose or Google Test or pFUnit depending on your language.
+ - Check that the test fails (since the function is not implemented/finished).
  - Commit the function and its test.
- - Create a .travis.yml file and commit it.
+ - Create a .travis.yml file based on provided examples and commit it.
  - Push to GitHub.
  - Fix the function/routine until the test passes.
  - Commit and push the working function/routine.
  - Check and discuss the test history on https://travis-ci.org.
  - Check and discuss the test coverage on https://coveralls.io.
+ - Iterate.
 
 
 Ranges with steps
@@ -95,8 +96,8 @@ Example::
   [1, 2, 7, 8, 10, 13] -> ["BADA", "BADA", "BING!"]
 
 
-Finding the right triangle
---------------------------
+Find the right triangle
+-----------------------
 
 Inspired by http://learnyouahaskell.com.
 
