@@ -3,9 +3,6 @@
 Test-driven debugging and development
 =====================================
 
-FIXME:
- - Provide example .travis.yml files.
-
 Below you find a collection of problems. Start with the ones you like in your
 favourite language. You do not have to finish all and you can test own problems
 instead. Each function should be separately tested.  The point here is to get
@@ -25,6 +22,11 @@ Proceed as follows:
  - Check and discuss the test history on https://travis-ci.org.
  - Check and discuss the test coverage on https://coveralls.io.
  - Iterate and refine.
+
+Examples that you can use as a starting point:
+ - `Python example using pytest <https://github.com/rbast/pytest-demo>`_.
+ - `C/C++ example using Google Test <https://github.com/rbast/gtest-demo>`_.
+ - `Fortran example using pFUnit <https://github.com/rbast/pfunit-demo>`_.
 
 
 Ranges with steps
