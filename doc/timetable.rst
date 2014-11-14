@@ -11,11 +11,10 @@ Day 1
 - 11:20 - 12:00    Introduction to Git (Radovan)
 
 - 13:30 - 14:10    Branching and merging in Git (Radovan)
-- 14:20 - 15:00    Working with remotes (Rossen)
+- 14:20 - 15:00    Decentralized version control (Radovan)
 
 - 15:20 - 15:40    Working with GitHub (Radovan)
-- 15:40 - 16:00    Working with submodules (Rossen)
-- 16:00 - 17:00    Git: questions and answers and best practices (Rossen/Jonas/Radovan)
+- 15:40 - 17:00    Git: questions and answers and best practices (Jonas/Radovan)
 
 
 Day 2
