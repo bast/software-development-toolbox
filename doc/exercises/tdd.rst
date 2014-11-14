@@ -15,7 +15,7 @@ Proceed as follows:
  - Create a test for this function/routine using pytest or nose or Google Test or pFUnit depending on your language.
  - Check that the test fails (since the function is not implemented/finished).
  - Commit the function and its test.
- - Create a .travis.yml file based on provided examples and commit it.
+ - Create a .travis.yml file based on provided examples (below) and commit it.
  - Push to GitHub.
  - Fix the function/routine until the test passes.
  - Commit and push the working function/routine.
@@ -24,9 +24,9 @@ Proceed as follows:
  - Iterate and refine.
 
 Examples that you can use as a starting point:
- - `Python example using pytest <https://github.com/rbast/pytest-demo>`_.
- - `C/C++ example using Google Test <https://github.com/rbast/gtest-demo>`_.
- - `Fortran example using pFUnit <https://github.com/rbast/pfunit-demo>`_.
+ - `Python example using pytest <https://github.com/rbast/pytest-demo>`_
+ - `C/C++ example using Google Test <https://github.com/rbast/gtest-demo>`_
+ - `Fortran example using pFUnit <https://github.com/rbast/pfunit-demo>`_
 
 
 Ranges with steps
