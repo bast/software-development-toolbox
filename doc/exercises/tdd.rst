@@ -13,7 +13,7 @@ into contact with testing, continuous integration, and test coverage.
 
 Proceed as follows:
  - Create a GitHub project for this exercise.
- - Create accounts at https://travis-ci.org and https://coveralls.io and enable there your new GitHub project.
+ - Sign in to https://travis-ci.org and https://coveralls.io with your GitHub account and enable there your new GitHub project.
  - For each problem start with an empty/mock function/routine that does not work.
  - Create a test for this function/routine using pytest or nose or Google Test or pFUnit depending on your language.
  - Check that the test fails (since the function is not implemented/finished).
@@ -24,7 +24,7 @@ Proceed as follows:
  - Commit and push the working function/routine.
  - Check and discuss the test history on https://travis-ci.org.
  - Check and discuss the test coverage on https://coveralls.io.
- - Iterate.
+ - Iterate and refine.
 
 
 Ranges with steps
