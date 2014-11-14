@@ -19,6 +19,12 @@ We also recommend to study the basics of version control using Git. This will
 be treated during the lectures as well but it will help to already have a basic
 idea.
 
+We ask you to prepare a short description (less than one page) of your project
+and of the development, testing, documentation, and collaboration environment
+and workflow (if any).  It is a useful exercise to bring this to paper. This
+will also be useful as documentation for other people who wish to join your
+project.
+
 Here is some recommended material for the pre-study week:
 
 - http://software-carpentry.org/v5/novice/shell/index.html
