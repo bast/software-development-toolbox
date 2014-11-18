@@ -4,8 +4,8 @@ Timetable
 =========
 
 
-Day 1
------
+Monday, Dec 1, 2014
+-------------------
 
 - 11:00 - 11:20    Course overview and practical information (Radovan)
 - 11:20 - 12:00    Introduction to Git (Radovan)
@@ -17,8 +17,8 @@ Day 1
 - 15:40 - 17:00    Git: questions and answers and best practices (Jonas/Radovan)
 
 
-Day 2
------
+Tuesday, Dec 2, 2014
+--------------------
 
 - 09:30 - 10:10    Mercurial (Michael)
 - 10:20 - 11:00    Working with IPython (Michael)
@@ -29,8 +29,8 @@ Day 2
 - 16:40 - 17:00    Freestyle: questions and answers
 
 
-Day 3
------
+Wednesday, Dec 3, 2014
+----------------------
 
 - 09:30 - 10:10    Expressing dependencies with make (Michael)
 - 10:20 - 11:00    Building portable software with CMake (Rossen)
@@ -41,8 +41,8 @@ Day 3
 - 16:40 - 17:00    Freestyle: questions and answers
 
 
-Day 4
------
+Thursday, Dec 4, 2014
+---------------------
 
 - 09:30 - 10:10    Debugging toolbox (Michael)
 - 10:20 - 11:00    Controlling complexity (Jonas)
@@ -53,8 +53,8 @@ Day 4
 - 16:40 - 17:00    Freestyle: questions and answers
 
 
-Day 5
------
+Friday, Dec 5, 2014
+-------------------
 
 - 09:30 - 09:50    Sharing software, packaging software and release mechanisms (Radovan)
 - 09:50 - 10:20    Code documentation (Radovan)
