@@ -20,7 +20,7 @@ Monday, Dec 1, 2014
 Tuesday, Dec 2, 2014
 --------------------
 
-- 09:30 - 10:10    Mercurial (Michael)
+- 09:30 - 10:10    Debugging toolbox (Michael)
 - 10:20 - 11:00    Working with IPython (Michael)
 - 11:10 - 11:50    Testing: Unit tests, regression tests, test-driven development (Radovan)
 
@@ -44,7 +44,7 @@ Wednesday, Dec 3, 2014
 Thursday, Dec 4, 2014
 ---------------------
 
-- 09:30 - 10:10    Debugging toolbox (Michael)
+- 09:30 - 10:10    Mercurial (Michael)
 - 10:20 - 11:00    Controlling complexity (Jonas)
 - 11:10 - 11:50    Functional programming (Jonas)
 
