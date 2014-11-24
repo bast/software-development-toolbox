@@ -20,8 +20,8 @@ Monday, Dec 1, 2014
 Tuesday, Dec 2, 2014
 --------------------
 
-- 09:30 - 10:10    Debugging toolbox (Michael)
-- 10:20 - 11:00    Working with IPython (Michael)
+- 09:30 - 10:10    Working with IPython (Michael)
+- 10:20 - 11:00    Sharing software, packaging software and release mechanisms (Radovan)
 - 11:10 - 11:50    Testing: Unit tests, regression tests, test-driven development (Radovan)
 
 - 13:00 - 16:00    Exercise session 1
@@ -44,7 +44,7 @@ Wednesday, Dec 3, 2014
 Thursday, Dec 4, 2014
 ---------------------
 
-- 09:30 - 10:10    Mercurial (Michael)
+- 09:30 - 10:10    Debugging toolbox (Michael)
 - 10:20 - 11:00    Controlling complexity (Jonas)
 - 11:10 - 11:50    Functional programming (Jonas)
 
@@ -56,7 +56,7 @@ Thursday, Dec 4, 2014
 Friday, Dec 5, 2014
 -------------------
 
-- 09:30 - 09:50    Sharing software, packaging software and release mechanisms (Radovan)
+- 09:30 - 09:50    ?
 - 09:50 - 10:20    Code documentation (Radovan)
 
 - 10:30 - 10:50    Real life example: Code development in DIRAC and Dalton (Radovan)
