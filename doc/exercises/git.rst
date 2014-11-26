@@ -55,11 +55,13 @@ The repository consists of one single script which approximately calculates pi::
 
   $ python get_pi.py
 
-It should produce 3.14159241097 but it does not. It produces 3.26459241097.
+It should produce 3.14159241097 but it does not. It produces 3.26459241097 using
+the last commit.
 
 The script calculates pi using the 100 first terms of the Nilakantha series. At
 each commit, the 100 terms are reshuffled. At some point within the 1000 first
-commits, an error was introduced.
+commits, an error was introduced. The only thing we know is that the first
+commit worked correctly.
 
 Use ``git bisect`` to find the commit which broke the computation.
 
