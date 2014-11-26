@@ -14,7 +14,7 @@ We will need:
   - Recommended but not mandatory: Virtualenv (http://docs.python-guide.org/en/latest/dev/virtualenvs/) or Anaconda
   - Git
   - Compilers: gfortran, gcc, g++ (depending on whether you use Fortran or C or C++)
-  - CMake: http://www.cmake.org/
+  - CMake: http://www.cmake.org
 
 People who have never used a compiled language and are certain that they never
 will, can skip installing compilers and CMake. We have tailored exercises for
@@ -25,7 +25,7 @@ by a Linux user. Instructions for Windows and Mac OS X are
 untested.
 
 For Mac OS X we recommend installing packages via Homebrew: http://brew.sh (use
-`$ brew search <package>`). But if you like MacPorts better, that should work, too.
+``$ brew search <package>``). But if you like MacPorts better, that should work, too.
 
 For Windows we recommend to follow installation instructions for the shell, text
 editor, Python, and Git as provided by the Software Carpentry (we will not need
