@@ -10,13 +10,13 @@ Basic init-add-commit workflow
 Initialize an empty Git repository, add some source code or text and commit few
 changes. Use ``git status`` a lot.  Test ``git log``, ``git grep``, ``git
 diff``. Create files that you want ignored by Git.  Make Git ignore these
-files.
+files. Create branches, switch between them, merge them, delete them.
 
 
 Git branching game
 ------------------
 
-Try to solve basic exercises in "Main" and "Remote":
+Try to solve basic "Main" and "Remote" exercises in
 http://pcottle.github.io/learnGitBranching/.
 You decide how far you want to get and which topics
 are most relevant to your work.
@@ -43,7 +43,7 @@ Update forked repository
 
 After we have finished and reviewed the fork and pull-request exercise you will
 learn to update your forked repository with the combined changes integrated to
-the upstream repository.  We may need to resolve conflicts.
+the upstream repository.
 
 
 Git bisect exercise
