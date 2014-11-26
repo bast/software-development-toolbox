@@ -17,8 +17,7 @@ Git branching game
 ------------------
 
 Try to solve basic exercises in "Main" and "Remote":
-http://pcottle.github.io/learnGitBranching/
-
+http://pcottle.github.io/learnGitBranching/.
 You decide how far you want to get and which topics
 are most relevant to your work.
 
@@ -57,7 +56,6 @@ The repository consists of one single script which calculates pi (approximately)
 
 It should produce 3.141592 but it does not. It produces 3.264592 using
 the last commit.
-
 The script calculates pi using the 100 first terms of the Nilakantha series. At
 each commit, the 100 terms are reshuffled. At some point within the 1000 first
 commits, an error was introduced. The only thing we know is that the first
