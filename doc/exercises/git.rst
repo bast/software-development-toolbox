@@ -51,11 +51,11 @@ Git bisect exercise
 -------------------
 
 Clone the https://github.com/rbast/bisect-me exercise.
-The repository consists of one single script which approximately calculates pi::
+The repository consists of one single script which calculates pi (approximately)::
 
   $ python get_pi.py
 
-It should produce 3.14159241097 but it does not. It produces 3.26459241097 using
+It should produce 3.141592 but it does not. It produces 3.264592 using
 the last commit.
 
 The script calculates pi using the 100 first terms of the Nilakantha series. At
@@ -71,5 +71,5 @@ run`` to find the offending commit automatically.
 The motivation for this exercise is to be able to do archaeology with Git on a
 source code where the bug is difficult to see visually.  Once you find the
 offending commit, it is often much easier to figure out why it is broken (in
-this particular example it won't help us but in reality mastering ``git
-bisect`` is a huge time saver).
+this particular example the knowledge about the offending commit will not help
+us but in reality mastering ``git bisect`` is a huge time saver).
