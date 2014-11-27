@@ -30,9 +30,9 @@ Then inspect ``index.rst`` and ``doc/`` and compare
 them to http://toolbox.readthedocs.org.
 It will be then hopefully quickly clear how they map to each other.
 
-Commit a small change to the repository. Either improve
-the software installation section or find a bug or typo or suggest
-a fun exercise. Then submit the change as pull-request.
+Commit a small change to the repository. Either improve the software
+installation section or find a bug or typo or suggest a fun exercise or improve
+the english.  Then submit the change as pull-request.
 
 We will then together inspect the pull-requests and integrate
 them to the main repository.
