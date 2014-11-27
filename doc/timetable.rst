@@ -67,7 +67,7 @@ Friday, Dec 5, 2014
 
 - 10:30 - 10:50    Real life example: Code development in DIRAC and Dalton (Radovan)
 - 10:50 - 11:10    Real life example: Code review and continuous integration in GROMACS (Rossen)
-- 11:10 - 11:30    Real life example: Perhaps SYMBIOSES? (Jonas)
+- 11:10 - 11:30    Real life example: SYMBIOSES project (Jonas)
 
 - 11:30 - 11:50    Look into the future: where we are heading (Jonas)
 - 11:50 - 12:00    Concluding remarks (Radovan)
