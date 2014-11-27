@@ -3,8 +3,36 @@
 Software that you should install prior to the course
 ====================================================
 
+
 All exercises will be done on your laptop. You can also run them on your remote
 desktop via your laptop. We will not have access to other (local) computing resources.
+
+
+Alternative 1: Virtualbox
+-------------------------
+
+As an alternative to individual installations
+we will also provide a virtual Linux image with all software
+pre-installed which you will be able to run using https://www.virtualbox.org.
+
+This is in particular practical for Windows laptops.
+
+- Download and install https://www.virtualbox.org
+- Download the pre-installed Linux image (you will receive the download location via email)
+- Extract the image (on Linux ``$ tar xvzf trusty32.tgz``)
+- Start Virtualbox
+- "File" -> "Import Appliance" -> select the extracted box.ovf -> "Import"
+- Start the imported machinea (big green arrow)
+- Log in as vagrant:vagrant using LXDE session
+- Adjust the keyboard to your layout
+- Open a terminal
+- Edit .gitconfig
+- ``mkdir test; cd test; git init``
+- Marvel at the prompt
+
+
+Alternative 2: You install the software directly on your laptop or remote desktop
+---------------------------------------------------------------------------------
 
 We will need:
   - Shell (bash or other shell that you like better)
@@ -15,10 +43,9 @@ We will need:
   - Git
   - Compilers: gfortran, gcc, g++ (depending on whether you use Fortran or C or C++)
   - CMake: http://www.cmake.org
-
-**Update: As an alternative to individual installations
-we will also provide a virtual Linux image with all software
-pre-installed which you will be able to run using** https://www.virtualbox.org.
+  - Valgrind
+  - IPython for those who want to experiment with it
+  - Meld or Diffuse
 
 People who have never used a compiled language and are certain that they never
 will, can skip installing compilers and CMake. We have tailored exercises for
