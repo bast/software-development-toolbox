@@ -67,7 +67,7 @@ Bonus: write a script that checks for a correct result and use ``git bisect
 run`` to find the offending commit automatically.
 
 The motivation for this exercise is to be able to do archaeology with Git on a
-source code where the bug is difficult to see visually.  Once you find the
-offending commit, it is often much easier to figure out why it is broken (in
-this particular example the knowledge about the offending commit will not help
-us but in reality mastering ``git bisect`` is a huge time saver).
+source code where the bug is difficult to see visually. Finding the offending
+commit is often more than half the debugging. In this particular example the
+knowledge about the offending commit will not help us but in reality mastering
+``git bisect`` is a huge time saver.
