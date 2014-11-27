@@ -21,12 +21,12 @@ This is in particular practical for Windows laptops.
 - Download the pre-installed Linux image (you will receive the download location via email)
 - Extract the image (on Linux ``$ tar xvzf trusty32.tgz``)
 - Start Virtualbox
-- "File" -> "Import Appliance" -> select the extracted box.ovf -> "Import"
-- Start the imported machinea (big green arrow)
+- "File" -> "Import Appliance" -> select the extracted ``box.ovf`` -> "Import"
+- Start the imported machine (big green arrow)
 - Log in as vagrant:vagrant using LXDE session
 - Adjust the keyboard to your layout
 - Open a terminal
-- Edit .gitconfig
+- Edit ``.gitconfig``
 - ``mkdir test; cd test; git init``
 - Marvel at the prompt
 
