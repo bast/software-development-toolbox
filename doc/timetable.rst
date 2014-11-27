@@ -8,10 +8,10 @@ Monday, Dec 1, 2014
 -------------------
 
 - 11:00 - 11:20    Course overview and practical information (Radovan)
-- 11:20 - 12:00    Introduction to Git (Radovan)
+- 11:20 - 12:00    Introduction to version control and Git (Radovan)
 
-- 13:30 - 14:10    Branching and merging in Git (Radovan)
-- 14:20 - 15:00    Decentralized version control (Radovan)
+- 13:30 - 14:10    Branching, merging, and conflict resolution (Radovan)
+- 14:20 - 15:00    Collaboration via distributed version control (Radovan)
 
 - 15:20 - 15:40    Working with GitHub (Radovan)
 - 15:40 - 17:00    Git: questions and answers and best practices (Jonas/Radovan)
@@ -21,7 +21,8 @@ Tuesday, Dec 2, 2014
 --------------------
 
 - 09:30 - 10:10    Working with IPython (Michael)
-- 10:20 - 11:00    Sharing software, packaging software and release mechanisms (Radovan)
+- 10:20 - 10:40    Archaeology with Git (Radovan)
+- 10:40 - 11:00    Good Git habits (Radovan)
 - 11:10 - 11:50    Testing: Unit tests, regression tests, test-driven development (Radovan)
 
 - 13:00 - 16:00    Exercise session 1
@@ -56,7 +57,7 @@ Thursday, Dec 4, 2014
 Friday, Dec 5, 2014
 -------------------
 
-- 09:30 - 09:50    ?
+- 09:30 - 09:50    Sharing software, packaging software and release mechanisms (Radovan)
 - 09:50 - 10:20    Code documentation (Radovan)
 
 - 10:30 - 10:50    Real life example: Code development in DIRAC and Dalton (Radovan)
