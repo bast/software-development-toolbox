@@ -18,7 +18,7 @@ We will need:
 
 **Update: As an alternative to individual installations
 we will also provide a virtual Linux image with all software
-pre-installed which you will be able to run using https://www.virtualbox.org**.
+pre-installed which you will be able to run using** https://www.virtualbox.org.
 
 People who have never used a compiled language and are certain that they never
 will, can skip installing compilers and CMake. We have tailored exercises for
