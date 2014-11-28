@@ -61,7 +61,7 @@ Thursday, Dec 4, 2014
 Friday, Dec 5, 2014
 -------------------
 
-- 09:30 - 09:50    `Sharing software, packaging software and release mechanisms <http://bast.fr/talks/git/release/>`_ (Radovan)
+- 09:30 - 09:50    `Sharing software, packaging software and release mechanisms <http://bast.fr/talks/devel/release/>`_ (Radovan)
 - 09:50 - 10:20    Code documentation (Radovan)
 
 - 10:30 - 10:50    Real life example: Code development in DIRAC and Dalton (Radovan)
