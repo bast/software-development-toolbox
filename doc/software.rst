@@ -25,7 +25,7 @@ it should work on virtually any platform.
 - "File" -> "Import Appliance" -> select the extracted ``box.ovf`` -> "Import"
 - Start the imported machine (big green arrow)
 - Log in as vagrant:vagrant (using LXDE session)
-- Adjust the keyboard to your layout
+- Adjust the keyboard to your layout (bottom left -> "Preferences" -> "Lxkeymap")
 - Open a terminal
 - Edit ``.gitconfig``
 
