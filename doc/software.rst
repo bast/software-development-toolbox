@@ -15,7 +15,8 @@ As an alternative to individual installations
 we will also provide a virtual Linux image with all software
 pre-installed which you will be able to run using https://www.virtualbox.org.
 
-This is in particular practical for Windows laptops.
+This is in particular practical for Windows laptops but
+it should work on virtually any platform.
 
 - Download and install https://www.virtualbox.org
 - Download the pre-installed Linux image (you will receive the download location via email)
