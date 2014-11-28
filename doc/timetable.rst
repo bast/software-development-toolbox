@@ -18,7 +18,7 @@ Monday, Dec 1, 2014
 - 14:20 - 15:00    `Collaboration via distributed version control <http://bast.fr/talks/git/distributed/>`_ (Radovan)
 
 - 15:20 - 15:40    `Working with GitHub <http://bast.fr/talks/git/github/>`_ (Radovan)
-- 15:40 - 17:00    Git: questions and answers and best practices (Jonas/Radovan)
+- 15:40 - 17:00    Git: questions and answers and best practices (Jonas and Radovan)
 
 
 Tuesday, Dec 2, 2014
@@ -61,7 +61,7 @@ Thursday, Dec 4, 2014
 Friday, Dec 5, 2014
 -------------------
 
-- 09:30 - 09:50    Sharing software, packaging software and release mechanisms (Radovan)
+- 09:30 - 09:50    `Sharing software, packaging software and release mechanisms <http://bast.fr/talks/git/release/>`_ (Radovan)
 - 09:50 - 10:20    Code documentation (Radovan)
 
 - 10:30 - 10:50    Real life example: Code development in DIRAC and Dalton (Radovan)
