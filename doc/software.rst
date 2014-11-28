@@ -23,12 +23,10 @@ This is in particular practical for Windows laptops.
 - Start Virtualbox
 - "File" -> "Import Appliance" -> select the extracted ``box.ovf`` -> "Import"
 - Start the imported machine (big green arrow)
-- Log in as vagrant:vagrant using LXDE session
+- Log in as vagrant:vagrant (using LXDE session)
 - Adjust the keyboard to your layout
 - Open a terminal
 - Edit ``.gitconfig``
-- ``mkdir test; cd test; git init``
-- Marvel at the prompt
 
 
 Alternative 2: You install the software directly on your laptop or remote desktop
