@@ -39,7 +39,7 @@ Wednesday, Dec 3, 2014
 
 - 09:30 - 10:10    Expressing dependencies with make (Michael)
 - 10:20 - 11:00    Building portable software with CMake (Rossen)
-- 11:10 - 11:50    CMake Kung Fu and `Git submodules <http://bast.fr/talks/git/submodules/>`_ (Radovan)
+- 11:10 - 11:50    `CMake Kung Fu <http://bast.fr/talks/cmake/kung-fu/>`_ and `Git submodules <http://bast.fr/talks/git/submodules/>`_ (Radovan)
 
 - 13:00 - 16:00    Exercise session 2
 - 16:00 - 16:40    Profiling and code optimization toolbox (Rossen)
