@@ -66,3 +66,156 @@ On Linux we recommend to install cmake, gfortran, gcc, g++, and git via
 standard package installers (apt-get or yum or pacman or your favourite
 installer). Sphinx can be installed via standard package installers although in
 the long run it is convenient to install Python packages using Virtualenv.
+
+
+How you can verify that the installation worked
+-----------------------------------------------
+
+[I really do not know how this looks on Windows]
+
+**Bash**
+
+::
+
+  $ bash --version
+
+Should give you a version (like here) and not an error
+(don't worry if the version is different on your system)::
+
+  GNU bash, version 4.2.37(1)-release (x86_64-pc-linux-gnu)
+  Copyright (C) 2011 Free Software Foundation, Inc.
+  License GPLv3+: GNU GPL version 3 or later <http://gnu.org/licenses/gpl.html>
+
+  This is free software; you are free to change and redistribute it.
+  There is NO WARRANTY, to the extent permitted by law.
+
+**Text editor**
+
+Open a file and edit it. If this works, all is good.
+
+**Python**
+
+Open a Python shell. It should look like this::
+
+  $ python
+
+  Python 2.7.3 (default, Mar 13 2014, 11:03:55)
+  [GCC 4.7.2] on linux2
+  Type "help", "copyright", "credits" or "license" for more information.
+  >>>
+
+You get out of it with CTRL-D.
+
+**Sphinx**
+
+::
+
+  $ sphinx-quickstart
+
+Should produce::
+
+  Welcome to the Sphinx 1.2.3 quickstart utility.
+
+  Please enter values for the following settings (just press Enter to
+  accept a default value, if one is given in brackets).
+
+  Enter the root path for documentation.
+  > Root path for the documentation [.]:
+
+You can abort it with CTRL-C.
+
+**Virtualenv**
+
+Installing a test virtualenv under ``/tmp`` should look like this::
+
+  $ cd /tmp
+  $ virtualenv env
+
+  New python executable in env/bin/python
+  Installing setuptools, pip...done.
+
+**Git**
+
+::
+
+  $ git --version
+
+Should give you a version (like here) and not an error
+(don't worry if the version is different on your system)::
+
+  git version 1.7.10.4
+
+**GFortran**
+
+::
+
+  $ gfortran --version
+
+Should give you a version (like here) and not an error
+(don't worry if the version is different on your system)::
+
+  GNU Fortran (Debian 4.7.2-5) 4.7.2
+  Copyright (C) 2012 Free Software Foundation, Inc.
+
+  GNU Fortran comes with NO WARRANTY, to the extent permitted by law.
+  You may redistribute copies of GNU Fortran
+  under the terms of the GNU General Public License.
+  For more information about these matters, see the file named COPYING
+
+**GCC**
+
+Check output of ``gcc --version``.
+
+**G++**
+
+Check output of ``g++ --version``.
+
+**CMake**
+
+::
+
+  $ cmake --version
+
+Should give you a version (like here) and not an error
+(don't worry if the version is different on your system)::
+
+  cmake version 2.8.9
+
+**Valgrind**
+
+::
+
+  $ valgrind --version
+
+Should give you a version (like here) and not an error
+(don't worry if the version is different on your system)::
+
+  valgrind-3.7.0
+
+**IPython**
+
+::
+
+  $ ipython
+
+Should produce an output similar to this::
+
+  Python 2.7.3 (default, Mar 13 2014, 11:03:55)
+  Type "copyright", "credits" or "license" for more information.
+
+  IPython 2.3.1 -- An enhanced Interactive Python.
+  ?         -> Introduction and overview of IPython's features.
+  %quickref -> Quick reference.
+  help      -> Python's own help system.
+  object?   -> Details about 'object', use 'object??' for extra details.
+
+  In [1]:
+
+You get out of it with CTRL-D.
+
+**Meld or Diffuse**
+
+To test it create two files which are similar and then compare them
+with Meld or Diffuse::
+
+  $ meld file1 file2
