@@ -35,7 +35,9 @@ Alternative 2: You install the software directly on your laptop or remote deskto
 
 We will need:
   - Shell (bash or other shell that you like better)
-  - Text editor (vi or vim or emacs or nano or your favourite editor) : If you haven't used any of these before install two three of them. Pick the one you can quit/exit the fastest. Estimated times for a Windows user: Quit in Emacs, half a day. Exit in Emacs, half a day. Quit/Exit in Vi... TBA! (hint: you can always quit the terminal and start a new one!)
+  - Text editor (vi or vim or emacs or nano or your favourite editor; if you
+    haven't used any of these before, pick the one you can exit without killing the terminal;
+    you can exit vi and vim with ":q!", emacs with "CTRL-X CTRL-C", and nano with "CTRL-X")
   - Python
   - Sphinx http://sphinx-doc.org
   - Recommended but not mandatory: Virtualenv (http://docs.python-guide.org/en/latest/dev/virtualenvs/) or Anaconda
@@ -146,10 +148,11 @@ Should give you a version (like here) and not an error
 
   git version 1.7.10.4
 
-Before you start using any git commands, I strongly suggest switching the global editor to the one you know how to exit. 
-This should do the trick
+Before you start using any Git commands,
+We strongly suggest switching the global editor to the one you know how to exit.
+This should do the trick::
 
-  $ git config --global core.editor emacs
+  $ git config --global core.editor emacs # or vim or something else
 
 **GFortran**
 
