@@ -35,7 +35,7 @@ Alternative 2: You install the software directly on your laptop or remote deskto
 
 We will need:
   - Shell (bash or other shell that you like better)
-  - Text editor (vi or vim or emacs or nano or your favourite editor)
+  - Text editor (vi or vim or emacs or nano or your favourite editor) : If you haven't used any of these before install two three of them. Pick the one you can quit/exit the fastest. Estimated times for a Windows user: Quit in Emacs, half a day. Exit in Emacs, half a day. Quit/Exit in Vi... TBA! (hint: you can always quit the terminal and start a new one!)
   - Python
   - Sphinx http://sphinx-doc.org
   - Recommended but not mandatory: Virtualenv (http://docs.python-guide.org/en/latest/dev/virtualenvs/) or Anaconda
@@ -56,6 +56,7 @@ untested.
 
 For Mac OS X we recommend installing packages via Homebrew: http://brew.sh (use
 ``$ brew search <package>``). But if you like MacPorts better, that should work, too.
+If you are not a sudoer, Homebrew is a better option than MacPorts. Or so I heard.
 
 For Windows we recommend to follow installation instructions for the shell, text
 editor, Python, and Git as provided by the Software Carpentry (we will not need
@@ -144,6 +145,11 @@ Should give you a version (like here) and not an error
 (don't worry if the version is different on your system)::
 
   git version 1.7.10.4
+
+Before you start using any git commands, I strongly suggest switching the global editor to the one you know how to exit. 
+This should do the trick
+
+  $ git config --global core.editor emacs
 
 **GFortran**
 
