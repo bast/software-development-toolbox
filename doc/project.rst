@@ -6,9 +6,10 @@ Project week
 During the project week you will use what you have learned during the lectures
 and hands-on exercises.
 
-Ideally this will be to introduce version control, testing, and documentation
-framework for your own project(s). If you use makefiles then the project can
-also involve moving to CMake (we highly recommend such a step).
+Ideally this will be to introduce version control, testing, documentation
+framework, good practices and good intentions for your own project(s). If you
+use makefiles then the project can also involve moving to CMake (we highly
+recommend such a step).
 
 You should choose and submit a short project abstract (one or two paragraphs)
 in pdf format before the end of day 4 so that we have the possibility to
