@@ -25,15 +25,18 @@ are most relevant to your work.
 Practice working with remotes (on a local machine)
 --------------------------------------------------
 
-- Create a bare git repository on your (virtual or real) machine.
-- Clone it into some other place on your computer.
-- In the cloned repository add and commit a README file or an example source file or script.
-- Push the change to the bare repository.
-- Have a look at ``git remote -v``.
-- Clone the bare repository to another clone (again on the same machine; now you have 1 bare and 2 non-bare repos).
+- Create a normal git repository on your (virtual or real) machine (repo A).
+- Create, add, and commit a README file or an example source file or script.
+- Clone it into a bare repository (repo B).
+- Clone the bare into another non-bare repository (repo C), everything still on your computer.
+- Have a look at ``git remote -v`` in repo C.
+- Have a look at ``git remote -v`` in repo A.
+- Add the bare repo B as remote in A.
 - Exercise communicating changes between the two non-bare clones.
-- You can also try to pull changes directly from one clone to another.
 - Verify that ``origin`` is just a label by pushing directly to the full path.
+- Create a GitHub project (without auto-creating README, LICENSE, or .gitignore).
+- Add the GitHub project as remote (change origin) and push the entire ``master`` branch from one our your local
+  repos into it.
 
 
 Fork and pull-request
