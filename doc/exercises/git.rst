@@ -22,6 +22,20 @@ You decide how far you want to get and which topics
 are most relevant to your work.
 
 
+Practice working with remotes (on a local machine)
+--------------------------------------------------
+
+- Create a bare git repository on your (virtual or real) machine.
+- Clone it into some other place on your computer.
+- In the cloned repository add and commit a README file or an example source file or script.
+- Push the change to the bare repository.
+- Have a look at ``git remote -v``.
+- Clone the bare repository to another clone (again on the same machine; now you have 1 bare and 2 non-bare repos).
+- Exercise communicating changes between the two non-bare clones.
+- You can also try to pull changes directly from one clone to another.
+- Verify that ``origin`` is just a label by pushing directly to the full path.
+
+
 Fork and pull-request
 ---------------------
 
