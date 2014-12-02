@@ -24,7 +24,7 @@ Monday, Dec 1, 2014
 Tuesday, Dec 2, 2014
 --------------------
 
-- 09:30 - 10:10    `Working with IPython <http://michs.github.io/talks/devel/ipython-2014/slides.html?name=ipython-overview.md>`(Michael)
+- 09:30 - 10:10    `Working with IPython <http://michs.github.io/talks/devel/ipython-2014/slides.html?name=ipython-overview.md>`_ (Michael)
 - 10:20 - 10:40    `Archaeology with Git <http://bast.fr/talks/git/archaeology/>`_ (Radovan)
 - 10:40 - 11:00    `Good Git habits <http://bast.fr/talks/git/good-habits/>`_ (Radovan)
 - 11:10 - 11:50    `Testing: Unit tests, regression tests, and test-driven development <http://bast.fr/talks/devel/testing/>`_ (Radovan)
