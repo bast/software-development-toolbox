@@ -3,4 +3,4 @@
 Scientific software development toolbox course material
 =======================================================
 
-The source behind http://toolbox.readthedocs.org/.
+The source code behind http://toolbox.readthedocs.org/.
