@@ -3,6 +3,9 @@
 Get comfortable with Git
 ========================
 
+You can work on the exercises "out of order" - in the order
+that is most interesting/relevant for you.
+
 
 Basic init-add-commit workflow
 ------------------------------
@@ -35,7 +38,7 @@ Practice working with remotes (on a local machine)
 - Exercise communicating changes between the two non-bare clones.
 - Verify that ``origin`` is just a label by pushing directly to the full path.
 - Create a GitHub project (without auto-creating ``README``, ``LICENSE``, or ``.gitignore``).
-- Change `origin` to now point to GitHub and push the entire ``master`` branch from one our your local
+- Change ``origin`` to now point to GitHub and push the entire ``master`` branch from one our your local
   repos into it.
 
 
