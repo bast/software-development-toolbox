@@ -16,4 +16,5 @@ Microwaves for lunchboxes
 -------------------------
 
 There are several microwave possibilities with plates and forks and knives etc.
-in close vicinity of the course room.
+in close vicinity of the course room. Please remember to wash your dishes or to put
+them into the dishwasher.
