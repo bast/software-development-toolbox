@@ -35,7 +35,7 @@ Practice working with remotes (on a local machine)
 - Exercise communicating changes between the two non-bare clones.
 - Verify that ``origin`` is just a label by pushing directly to the full path.
 - Create a GitHub project (without auto-creating ``README``, ``LICENSE``, or ``.gitignore``).
-- Add the GitHub project as remote (change origin) and push the entire ``master`` branch from one our your local
+- Change `origin` to now point to GitHub and push the entire ``master`` branch from one our your local
   repos into it.
 
 
