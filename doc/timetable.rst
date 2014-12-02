@@ -30,7 +30,7 @@ Tuesday, Dec 2, 2014
 - 11:10 - 11:50    `Testing: Unit tests, regression tests, and test-driven development <http://bast.fr/talks/devel/testing/>`_ (Radovan)
 
 - 13:00 - 16:00    Exercise session 1
-- 16:00 - 16:40    Collaborative web-based development workflows (Rossen)
+- 16:00 - 16:40    `Collaborative web-based development workflows <http://bast.fr/talks/rossen/web-based-collaboration/>`_ (Rossen)
 - 16:40 - 17:00    Freestyle: questions and answers
 
 
