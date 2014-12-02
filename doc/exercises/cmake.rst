@@ -18,4 +18,5 @@ Your task is to:
      - Create an installer so the program can be installed properly (GNU standards)
      - Compile a parallel version with OpenMP
  - Find all bugs using Valgrind and fix them
- - Find all parallelization bugs using Helgrind (part of Valgrind)
+ - Find all parallelization bugs using Helgrind (part of Valgrind; this exercise point will
+   only work with the Intel compiler; skip this when using GNU)
