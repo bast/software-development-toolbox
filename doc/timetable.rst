@@ -37,7 +37,7 @@ Tuesday, Dec 2, 2014
 Wednesday, Dec 3, 2014
 ----------------------
 
-- 09:30 - 10:10    Expressing dependencies with make (Michael)
+- 09:30 - 10:10    `Building software with make <http://michs.github.io/talks/devel/201412_make/slides.html?name=make-introduction.md>`_ (Michael)
 - 10:20 - 11:00    Building portable software with CMake (Rossen)
 - 11:10 - 11:50    `CMake Kung Fu <http://bast.fr/talks/cmake/kung-fu/>`_ and `Git submodules <http://bast.fr/talks/git/submodules/>`_ (Radovan)
 
