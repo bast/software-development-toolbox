@@ -42,7 +42,7 @@ Wednesday, Dec 3, 2014
 - 11:10 - 11:50    `CMake Kung Fu <http://bast.fr/talks/cmake/kung-fu/>`_ and `Git submodules <http://bast.fr/talks/git/submodules/>`_ (Radovan)
 
 - 13:00 - 16:00    Exercise session 2
-- 16:00 - 16:40    Profiling and code optimization toolbox (Rossen)
+- 16:00 - 16:40    `Profiling and code optimization toolbox <http://bast.fr/talks/rossen/optimization/>`_ (Rossen)
 - 16:40 - 17:00    Freestyle: questions and answers
 
 
