@@ -49,7 +49,7 @@ Wednesday, Dec 3, 2014
 Thursday, Dec 4, 2014
 ---------------------
 
-- 09:30 - 10:10    Debugging toolbox (Michael)
+- 09:30 - 10:10    `Debugging toolbox <http://michs.github.io/talks/devel/201412_debugging/slides.html?name=debugging.md>`_ (Michael)
 - 10:20 - 11:00    Controlling complexity (Jonas)
 - 11:10 - 11:50    Functional programming (Jonas)
 
