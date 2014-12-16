@@ -50,11 +50,11 @@ Thursday, Dec 4, 2014
 ---------------------
 
 - 09:30 - 10:10    `Debugging toolbox <http://michs.github.io/talks/devel/201412_debugging/slides.html?name=debugging.md>`_ (Michael)
-- 10:20 - 11:00    Controlling complexity (Jonas)
-- 11:10 - 11:50    Functional programming (Jonas)
+- 10:20 - 11:00    `Complexity in software development <https://scisoft.github.io/complexity/>`_ (Jonas)
+- 11:10 - 11:50    `Functional programming <https://scisoft.github.io/fp/>`_ (Jonas)
 
 - 13:00 - 16:00    Exercise session 3
-- 16:00 - 16:40    Modular programming and mixed-language development (Jonas)
+- 16:00 - 16:40    `Mixed Martial Arts <http://scisoft.github.io/mma/>`_ (Jonas)
 - 16:40 - 17:00    Freestyle: questions and answers
 
 
