@@ -66,6 +66,11 @@ Here is some recommended material for the pre-study week:
 - http://katyhuff.github.io/python-testing/
 
 
+**C**
+
+- http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-087-practical-programming-in-c-january-iap-2010/index.htm
+
+
 **Fortran**
 
 - http://www.csee.umbc.edu/~squire/fortranclass/summary.shtml
