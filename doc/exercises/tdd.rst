@@ -16,19 +16,19 @@ Then proceed as follows (both of you, separately):
 - Do not implement the functions, only their tests and stubs of the functions.
 
 Example (Python; the function get_word_lengths currently fails):
-```python
-def get_word_lengths(s):
-    """
-    Returns a list of integers representing
-    the word lengths in string s.
-    """
-    return None
+.. code-block:: python
+
+  def get_word_lengths(s):
+      """
+      Returns a list of integers representing
+      the word lengths in string s.
+      """
+      return None
 
 
-def test_get_word_lengths():
-    text = "Three tomatoes are walking down the street"
-    assert get_word_lengths(text) == [5, 8, 3, 7, 4, 3, 6]
-```
+  def test_get_word_lengths():
+      text = "Three tomatoes are walking down the street"
+      assert get_word_lengths(text) == [5, 8, 3, 7, 4, 3, 6]
 
 Then:
 - Check that the test fails (since the function is not implemented/finished).
