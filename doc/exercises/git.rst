@@ -54,3 +54,9 @@ Git bisect exercise
 -------------------
 
 https://github.com/bast/bisect-me
+
+
+Rebasing and squashing commits
+------------------------------
+
+Write me ...
