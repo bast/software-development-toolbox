@@ -59,4 +59,4 @@ https://github.com/bast/bisect-me
 Rebasing and squashing commits
 ------------------------------
 
-Write me ...
+https://github.com/bast/git-rebase-squash-exercise
