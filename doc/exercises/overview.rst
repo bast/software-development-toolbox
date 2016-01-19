@@ -3,4 +3,7 @@
 Exercises
 =========
 
-To be announced.
+.. toctree::
+   :maxdepth: 1
+
+   documentation.rst
