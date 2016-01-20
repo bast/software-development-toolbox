@@ -21,7 +21,7 @@ We will need:
     haven't used any of these before, pick the one you can exit without killing the terminal;
     you can exit vi and vim with ":q!", emacs with "CTRL-X CTRL-C", and nano with "CTRL-X")
   - Python
-  - Python packages (Sphinx, Jupyter notebook, pytest); we recommend to install these either using Anaconda or using Virtualenv (http://docs.python-guide.org/en/latest/dev/virtualenvs/)
+  - Python packages (Sphinx, Jupyter notebook, pytest); we recommend to install these either using Anaconda or using Virtualenv
   - Git
   - Compilers: gfortran, gcc, g++ (depending on whether you use Fortran or C or C++)
   - GDB
@@ -29,6 +29,12 @@ We will need:
   - CMake: http://www.cmake.org
   - Valgrind
   - Meld or Diffuse
+
+For Anaconda, please use the 2.7 version: https://www.continuum.io/downloads
+
+If you prefer Virtualenv over Anaconda, please follow
+http://docs.python-guide.org/en/latest/dev/virtualenvs/.  Note that you should
+not try to install both.
 
 For Mac OS X we recommend installing packages via Homebrew: http://brew.sh (use
 ``$ brew search <package>``). But if you like MacPorts better, that should work, too.
