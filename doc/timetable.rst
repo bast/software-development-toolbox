@@ -10,15 +10,14 @@ Monday, Jan 25, 2016
 - 10:00 - 10:30    Course overview and practical information (Radovan)
 - 10:30 - 11:30    Complexity in software development (Jonas)
 - 13:00 - 14:00    Functional programming (Jonas)
-- 14:00 - 15:00    Git 1/2 (Radovan)
-- 15:00 - 17:00    Exercise session (Git)
+- 14:00 - 17:00    Working with Git (Radovan)
 
 
 Tuesday, Jan 26, 2016
 ---------------------
 
-- 09:30 - 10:30    Test-driven development (Radovan)
-- 10:30 - 12:00    Git 2/2 (Radovan)
+- 09:30 - 11:00    Working with GitHub (Radovan)
+- 11:00 - 12:00    Test-driven development (Radovan)
 
 - 13:00 - 14:00    Mixed Martial Arts (Jonas)
 - 14:00 - 17:00    Exercise session (Git and TDD)
