@@ -10,16 +10,16 @@ Monday, Jan 25, 2016
 - 10:00 - 10:30    Course overview and practical information (Radovan)
 - 10:30 - 11:30    Complexity in software development (Jonas)
 - 13:00 - 14:00    Functional programming (Jonas)
-- 14:00 - 17:00    Working with Git (Radovan)
+- 14:00 - 17:00    Working with Git 1/2 (Radovan) [`Intro <http://cicero.xyz/v1/github/scisoft/toolbox-talks/master/git-intro.mkd/remark/>`__] [`Branches <http://cicero.xyz/v1/github/scisoft/toolbox-talks/master/git-branches.mkd/remark/>`__]
 
 
 Tuesday, Jan 26, 2016
 ---------------------
 
-- 09:30 - 11:00    Working with GitHub (Radovan)
-- 11:00 - 12:00    Test-driven development (Radovan)
+- 09:30 - 11:00    Working with Git 2/2 (Radovan)
+- 11:00 - 12:00    Mixed Martial Arts (Jonas)
 
-- 13:00 - 14:00    Mixed Martial Arts (Jonas)
+- 13:00 - 14:00    Test-driven development (Radovan)
 - 14:00 - 17:00    Exercise session (Git and TDD)
 
 
