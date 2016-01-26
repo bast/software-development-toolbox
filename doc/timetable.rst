@@ -16,7 +16,7 @@ Monday, Jan 25, 2016
 Tuesday, Jan 26, 2016
 ---------------------
 
-- 09:30 - 11:00    Working with Git 2/2 (Radovan)
+- 09:30 - 11:00    Working with Git 2/2 (Radovan) [`Conflicts <http://cicero.xyz/v1/github/scisoft/toolbox-talks/master/git-conflict-resolution.mkd/remark/>`__] [`Distributed <http://cicero.xyz/v1/github/scisoft/toolbox-talks/master/git-distributed.mkd/remark/>`__] [`GitHub <http://cicero.xyz/v1/github/scisoft/toolbox-talks/master/github.mkd/remark/>`__] [`Design <http://cicero.xyz/v1/github/scisoft/toolbox-talks/master/git-branch-design.mkd/remark/>`__] [`Arch <http://cicero.xyz/v1/github/scisoft/toolbox-talks/master/git-archaeology.mkd/remark/>`__]
 - 11:00 - 12:00    Mixed Martial Arts (Jonas)
 
 - 13:00 - 14:00    Test-driven development (Radovan)
