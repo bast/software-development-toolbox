@@ -60,3 +60,10 @@ Rebasing and squashing commits
 ------------------------------
 
 https://github.com/bast/git-rebase-squash-exercise
+
+
+Bonus exercise
+--------------
+
+Reimplement ``git clone`` using shell scripting
+or using your favourite language.
