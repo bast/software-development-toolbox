@@ -27,10 +27,10 @@ Wednesday, Jan 27, 2016
 -----------------------
 
 - 09:30 - 10:00    Working with Jupyter notebook (Radovan)
-- 10:00 - 11:00    [`Profiling and code optimization <http://cicero.xyz/v1/github/scisoft/toolbox-talks/master/optimiziation.mkd/remark/>`__] (Radovan)
-- 11:00 - 12:00    [`Modern code documentation <http://cicero.xyz/v1/github/scisoft/toolbox-talks/master/documentation.mkd/remark/>`__] (Radovan)
+- 10:00 - 11:00    `Profiling and code optimization <http://cicero.xyz/v1/github/scisoft/toolbox-talks/master/optimiziation.mkd/remark/>`__ (Radovan)
+- 11:00 - 12:00    `Modern code documentation <http://cicero.xyz/v1/github/scisoft/toolbox-talks/master/documentation.mkd/remark/>`__ (Radovan)
 
-- 13:00 - 14:00    [`Test-driven development <http://cicero.xyz/v1/github/scisoft/toolbox-talks/master/tdd.mkd/remark/>`__] (Radovan)
+- 13:00 - 14:00    `Test-driven development <http://cicero.xyz/v1/github/scisoft/toolbox-talks/master/tdd.mkd/remark/>`__ (Radovan)
 - 14:00 - 17:00    Exercise session (TDD, profiling, and documentation)
 
 
