@@ -37,8 +37,8 @@ Wednesday, Jan 27, 2016
 Thursday, Jan 28, 2016
 ----------------------
 
-- 09:30 - 11:00    Building software with Make (Michael)
-- 11:00 - 12:00    Debugging toolbox (Michael)
+- 09:30 - 11:00    `Building software with Make <http://michs.github.io/talks/devel/201501_make/slides.html?name=make-introduction.md>`__ (Michael)
+- 11:00 - 12:00    `Debugging toolbox <http://michs.github.io/talks/devel/201501_debugging/slides.html?name=debugging.md>`__ (Michael)
 
 - 13:00 - 14:30    Building software with CMake (Radovan) [`Basics <http://cicero.xyz/v1/github/scisoft/toolbox-talks/master/cmake-basics.mkd/remark/>`__] [`Advanced <http://cicero.xyz/v1/github/scisoft/toolbox-talks/master/cmake-kung-fu.mkd/remark/>`__]
 - 14:30 - 17:00    Exercise session (Make, CMake and debugging)
