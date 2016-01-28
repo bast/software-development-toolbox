@@ -9,3 +9,4 @@ Exercises
    git.rst
    tdd.rst
    documentation.rst
+   cmake.rst
