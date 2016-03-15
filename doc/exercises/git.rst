@@ -47,7 +47,7 @@ Practice working with remotes (on a local machine)
 Collaborative GitHub workflow
 -----------------------------
 
-https://github.com/bast/github-workflow-exercise
+https://github.com/bast/forking-workflow-exercise
 
 
 Git bisect exercise
